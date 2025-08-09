@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-rest-api-example",
+  "version": "1.0.0",
+  "description": "Example of Node.js REST API on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
